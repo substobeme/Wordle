@@ -15,4 +15,8 @@ Download the files(2 only) as it is, and run the following commands
 - docker build -t wordle .
 - docker run --rm -it wordle
 
+## Tasks by weeks
+- Week 1: Code the project
+- Week 2: Dockerize the project
+
 
