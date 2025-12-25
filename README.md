@@ -1,5 +1,7 @@
 # Wordle
+
 https://github.com/user-attachments/assets/beeb5e67-23c6-4bd9-ab0c-d4846226567c
+
 This is a simple worlde c++ code which is containerized usin docker, done as a part of redhat preoboarding task for week 1 and week 2.
 
 The game works as follows:
